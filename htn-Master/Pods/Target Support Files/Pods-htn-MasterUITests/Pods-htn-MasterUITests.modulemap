@@ -1,0 +1,6 @@
+framework module Pods_htn_MasterUITests {
+  umbrella header "Pods-htn-MasterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
